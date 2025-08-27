@@ -1,0 +1,23 @@
+
+.header {
+    font-size: 3rem;
+    margin-bottom: 100px;
+}
+
+#leastMode {
+    display: inline;
+}
+.mode {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+button {
+    margin: 20px;
+    background-color: rgb(236, 234, 234);
+}
+
+.a {
+    display: flex;
+    margin-left: 110px;
+}
